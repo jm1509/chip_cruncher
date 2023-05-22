@@ -18,13 +18,13 @@ body {
 }
 
 #left-paddle {
-  background-color: yellow;
+  background-color: blue;
   left: 10px;
   height: 25px;
 }
 
 #right-paddle {
-  background-color: yellow;
+  background-color: blue;
   right: 10px;
 }
 
