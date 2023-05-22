@@ -10,7 +10,7 @@ body {
 }
 #game {
   margin: 4px;
-  border: 5px solid black;
+  border: 5px solid yellow;
   left: 0;
   position: absolute;
   background-image: url("paper.gif");
