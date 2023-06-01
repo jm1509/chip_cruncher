@@ -46,7 +46,7 @@ export var soundArray = []; //list of sounds loaded
 export var wallSound ="C:\Users\mcbra\OneDrive\Desktop\Summer 2023\Videogame\Paddle.mp3.mp3" ("wall.mp3"); //load sound
 soundArray.push(wallSound); //add sound to list of sounds
 
-export var paddleSound = new soundFile("paddle.mp3");
+export var paddleSound = "C:\Users\mcbra\OneDrive\Desktop\Summer 2023\Videogame\Pong game sound.mp3" ("paddle.mp3");
 soundArray.push(paddleSound);
 
 export var scoreSound = new soundFile("silence.mp3");
