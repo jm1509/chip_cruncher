@@ -13,7 +13,7 @@ body {
   border: 5px solid grey;
   left: 0;
   position: absolute;
-  background-image: url("storm clouds");
+  background-image: url("stormclouds.png");
   background-size: cover;
 }
 
